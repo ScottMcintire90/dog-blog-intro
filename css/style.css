@@ -1,7 +1,20 @@
 .introcolumn {
-  width: 200px;
+  width: 220px;
   float: left;
+  border: 2px solid black;
 }
 .introtext {
+  text-align: left;
+}
+.blog {
+  padding-left: 300px;
+  font-size: 24px;
   text-align: center;
+}
+h1 {
+  text-decoration: underline;
+  font-size: 58px;
+}
+body {
+  background-color: #b3f0ff;
 }
