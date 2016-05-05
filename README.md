@@ -1,25 +1,21 @@
-# _{DogBlog}_
+# DogBlog
 
-#### _{This webpage is a pug blog created by the star of The Walking Dead}, {January 30th, 2016}_
+#### This webpage is a fake pug blog created by the star of The Walking Dead, January 30th, 2016
 
-#### By _**{Scott McIntire}**_
+#### By Scott McIntire
 
 ## Description
 
-_{This webpage has a pictures of pugs with descriptions of the pictures, as well as a sidebar that has a picture of the pseudo-author, Rick Grimes.}_
+This webpage has a pictures of pugs with descriptions of the pictures, as well as a sidebar that has a picture of the pseudo-author, Rick Grimes.
 
-## Known Bugs
+## Installation instructions
 
-_{No known bugs with this webpage.}_
-
-## Support and contact details
-
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+Clone this repository and run the index page in a web browser.
 
 ## Technologies Used
 
-_{HTML, CSS, Bootstrap}_
+HTML, CSS, Bootstrap
 
 ### License
 
-Copyright (c) 2016 **_{Scott McIntire}_**
+Copyright (c) 2016 Scott McIntire
